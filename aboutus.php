@@ -116,7 +116,7 @@ if( isset($_POST['button']))
    
         <form action="aboutus.php" method="POST" >
               <div class="mb-3 col-lg-6">
-                  <input type="text"  name="email" class="form-control" placeholder="your email address">
+                  <input type="email"  name="email" class="form-control" placeholder="your email address">
               </div>
               <div class="mb-3 col-lg-6">
                   <button class="btn btn-primary"name="button">subscribe</button>
